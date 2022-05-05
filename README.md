@@ -13,4 +13,6 @@ This program requires `Python` to run. Idk if it runs on earlier versions but I 
 4. COPY the path of any JDK you want to add to the list of stored paths and paste it into the text field. Click `Add`, then delete the text.
 5. Relaunch the program. It should add your path as an option in the selection box.
 
+oh yeah also make a restore point too just in case, you never know
+
 Licensed under GNU GPL v3
