@@ -1,3 +1,5 @@
+This repository is archived, since I don't use Windows anymore and I have no reason to compile Minecraft mods for older versions anymore. I'm pretty sure you can change your JAVA_HOME environment variable in your .powershellrc or whatever they call it over there.
+
 # EzSwitchJAVA_HOME
 
 I got fed up with having to constantly change my JAVA_HOME environment variable so I decided to automate it. This script is good for anyone who has to build Java programs and has multiple JDKs installed.
